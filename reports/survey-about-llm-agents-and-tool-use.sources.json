@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "OpenAI-FunctionCalling",
+    "url": "https://openai.com/index/function-calling-and-other-api-updates/",
+    "title": "Function calling and other API updates in OpenAI API",
+    "date": "2023-06-13",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2609.35811",
+    "url": "https://arxiv.org/abs/2609.35811",
+    "title": "Lookahead-R: Budget-Aware Tool Retrieval via Execution-Centric Planning",
+    "date": "2026-09-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2609.09395",
+    "url": "https://arxiv.org/abs/2609.09395",
+    "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+    "date": "2026-09-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2608.19741",
+    "url": "https://huggingface.co/papers/2608.19741",
+    "title": "Thinkingbox: A Sandbox and Benchmark for Agents in Stateful Business Workflows",
+    "date": "2026-08-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2512.12594",
+    "url": "https://huggingface.co/papers/2512.12594",
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "date": "2026-01-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2308.03688",
+    "url": "https://huggingface.co/papers/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2023-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2310.06770",
+    "url": "https://arxiv.org/abs/2310.06770",
+    "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+    "date": "2023-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2311.12983",
+    "url": "https://arxiv.org/abs/2311.12983",
+    "title": "GAIA: a benchmark for General AI Assistants",
+    "date": "2023-11-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2601.11044",
+    "url": "https://huggingface.co/papers/2601.11044",
+    "title": "AgencyBench: Evaluating Long-Horizon Agent Capabilities in Software Development and MCP Workflows",
+    "date": "2026-01-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2508.14925",
+    "url": "https://huggingface.co/papers/2508.14925",
+    "title": "MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers",
+    "date": "2025-08-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2205.00445",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "2022-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2305.16504",
+    "url": "https://arxiv.org/abs/2305.16504",
+    "title": "ToolBench: Large-Scale API Tool Manipulation Benchmark",
+    "date": "2023-05-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2603.02277",
+    "url": "https://huggingface.co/papers/2603.02277",
+    "title": "Quantifying Frontier LLM Capabilities for Container Sandbox Escape",
+    "date": "2026-03-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "ICLR2024-WebArena",
+    "url": "https://webarena.dev/",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2608.03499",
+    "url": "https://huggingface.co/papers/2608.03499",
+    "title": "WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks",
+    "date": "2026-08-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2610.12375",
+    "url": "https://arxiv.org/abs/2610.12375",
+    "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "arXiv:2406.12045",
+    "url": "https://arxiv.org/abs/2406.12045",
+    "title": "tau-bench: A Benchmark for Tool-Use and Interaction in Customer Service Settings",
+    "date": "2024-06-17",
+    "source": "arxiv"
+  }
+]

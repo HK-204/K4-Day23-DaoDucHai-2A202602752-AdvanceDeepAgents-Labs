@@ -1,0 +1,114 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2412.10400",
+    "url": "https://arxiv.org/html/2412.10400",
+    "title": "Reinforcement Learning Enhanced LLMs: A Survey",
+    "date": "2024-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2507.04136v1",
+    "url": "https://dl.acm.org/doi/full/10.1145/3834858",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2026-09-29",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:2510.01925",
+    "url": "https://huggingface.co/papers/2510.01925",
+    "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+    "date": "2025-10-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "acl-2026-prm-survey",
+    "url": "https://aclanthology.org/2026.acl-long.163/",
+    "title": "A Comprehensive Survey of Process Reward Models: Data Generation, Model Construction, and Usage",
+    "date": "2026",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2510.09988",
+    "url": "https://ar5iv.labs.arxiv.org/html/2510.09988",
+    "title": "Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey",
+    "date": "2025-10",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2501.09686",
+    "url": "https://arxiv.org/html/2501.09686",
+    "title": "Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models",
+    "date": "2025-01",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "hf-2601-18984",
+    "url": "https://huggingface.co/papers/2601.18984",
+    "title": "Save the Good Prefix: Precise Error Penalization via Process-Supervised RL to Enhance LLM Reasoning (VPPO)",
+    "date": "2026-01-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "hf-2508-02298",
+    "url": "https://huggingface.co/papers/2508.02298",
+    "title": "CAPO: Towards Enhancing LLM Reasoning through Verifiable Generative Credit Assignment",
+    "date": "2025-08-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "hf-2609-02817",
+    "url": "https://huggingface.co/papers/2609.02817",
+    "title": "Cliff: Learning Process Rewards from the First Mistake",
+    "date": "2026-09-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "hf-2410-15115",
+    "url": "https://huggingface.co/papers/2410.15115",
+    "title": "On Designing Effective RL Reward at Training Time for LLM Reasoning",
+    "date": "2024-10-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "hf-2603-07084",
+    "url": "https://huggingface.co/papers/2603.07084",
+    "title": "Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking in RLVR",
+    "date": "2026-09-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "arXiv:2407.11511",
+    "url": "https://www.arxiv.org/pdf/2407.11511v2",
+    "title": "Multi-Step Reasoning with Large Language Models, a Survey",
+    "date": "2024-07",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "hf-2310-04406",
+    "url": "https://huggingface.co/papers/2310.04406",
+    "title": "Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models (LATS)",
+    "date": "2023-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "hf-2506-11902",
+    "url": "https://huggingface.co/papers/2506.11902",
+    "title": "TreeRL: LLM Reinforcement Learning with On-Policy Tree Search",
+    "date": "2025-06-13",
+    "source": "hf-search"
+  }
+]

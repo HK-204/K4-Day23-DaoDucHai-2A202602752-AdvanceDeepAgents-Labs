@@ -1,0 +1,114 @@
+[
+  {
+    "n": 1,
+    "id": "craik-1943",
+    "url": "https://markhuckvale.com/research/hp/Craik_NOE_Chapter_5.pdf",
+    "title": "The Nature of Explanation",
+    "date": "1943",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2de5d16682c3c35007e4e92982f1a2ba",
+    "url": "https://proceedings.nips.cc/paper_files/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf",
+    "title": "Recurrent World Models Facilitate Policy Evolution",
+    "date": "2018",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2410.05227",
+    "url": "https://huggingface.co/papers/2410.05227",
+    "title": "The Dawn of Video Generation: Preliminary Explorations with SORA-like Models",
+    "date": "2024",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "meta-vjepa2",
+    "url": "https://ai.meta.com/research/vjepa/",
+    "date": "2026",
+    "title": "Introducing V-JEPA 2 and Benchmarks for Physical Reasoning",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2605.00080",
+    "url": "https://arxiv.org/abs/2605.00080",
+    "date": "2026",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2606.00133",
+    "url": "https://arxiv.org/abs/2606.00133",
+    "date": "2026",
+    "title": "World Models: A Comprehensive Survey",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2603.09086",
+    "url": "https://arxiv.org/abs/2603.09086",
+    "date": "2026",
+    "title": "Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "s42087-024-00460-z",
+    "url": "https://link.springer.com/article/10.1007/s42087-024-00460-z",
+    "title": "The Prehistory of the Idea that Thinking is Modelling",
+    "date": "2025",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "s41586-020-03051-4",
+    "url": "https://www.nature.com/articles/s41586-020-03051-4",
+    "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+    "date": "2020",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2402.15391",
+    "url": "https://huggingface.co/papers/2402.15391",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "meta-vjepa",
+    "url": "https://ai.fb.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/",
+    "date": "2024",
+    "title": "V-JEPA: Video Joint Embedding Predictive Architecture",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2601.14354",
+    "url": "https://arxiv.org/abs/2601.14354",
+    "date": "2026",
+    "title": "VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2609.29669",
+    "url": "https://arxiv.org/abs/2609.29669",
+    "date": "2026",
+    "title": "Do World Models Make Better Robots?",
+    "source": "arxiv"
+  }
+]

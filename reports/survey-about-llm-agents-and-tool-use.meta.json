@@ -1,0 +1,24 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "google_genai:gemini-3.5-flash-lite",
+  "elapsed_s": 158.7,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "write_todos": 2,
+    "task": 4,
+    "ls": 1,
+    "read_file": 5,
+    "write_file": 2,
+    "execute": 4
+  },
+  "tokens": {
+    "input": 248279,
+    "output": 8485
+  },
+  "n_sources": 19,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

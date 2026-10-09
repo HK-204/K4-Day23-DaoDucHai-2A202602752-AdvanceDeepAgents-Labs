@@ -1,0 +1,130 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14219",
+    "url": "https://arxiv.org/abs/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2401.02385",
+    "url": "https://arxiv.org/abs/2401.02385",
+    "title": "TinyLlama: An Open-Source Small Language Model",
+    "date": "2024-01-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2401.00448",
+    "url": "https://huggingface.co/papers/2401.00448",
+    "title": "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws",
+    "date": "2023-12-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "bitnet-b158",
+    "url": "https://arxiv.org/abs/2402.17764",
+    "title": "The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits",
+    "date": "2024-02-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "awq-paper",
+    "url": "https://arxiv.org/abs/2306.00978",
+    "title": "AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+    "date": "2023-06-02",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "gptq-paper",
+    "url": "https://arxiv.org/abs/2210.17323",
+    "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+    "date": "2022-10-31",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2309.06180",
+    "url": "https://huggingface.co/papers/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "date": "2023-09-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2407.08608",
+    "url": "https://arxiv.org/abs/2407.08608",
+    "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+    "date": "2024-07-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2401.10774",
+    "url": "https://arxiv.org/abs/2401.10774",
+    "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+    "date": "2024-01-10",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2401.15077",
+    "url": "https://arxiv.org/abs/2401.15077",
+    "title": "EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty",
+    "date": "2024-01-15",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "vllm-blog-2025",
+    "url": "https://vllm.ai/blog/2025-09-05-anatomy-of-vllm",
+    "title": "Anatomy of a High-Throughput LLM Inference System",
+    "date": "2025-09-05",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2503.19786",
+    "url": "https://arxiv.org/abs/2503.19786",
+    "title": "Gemma 3 Technical Report",
+    "date": "2025-03-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2610.02462",
+    "url": "https://arxiv.org/abs/2610.02462",
+    "title": "Capability Scaling-Down Laws for LLM Compression",
+    "date": "2026-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2609.32042",
+    "url": "https://arxiv.org/abs/2609.32042",
+    "title": "Quantization Thresholds Replicate, Failure Modes Do Not",
+    "date": "2026-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2407.21783",
+    "url": "https://arxiv.org/abs/2407.21783",
+    "title": "The Llama 3 Herd of Models",
+    "date": "2024-07-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2410.00161",
+    "url": "https://arxiv.org/abs/2410.00161",
+    "title": "KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head",
+    "date": "2024-09-30",
+    "source": "arxiv"
+  }
+]
